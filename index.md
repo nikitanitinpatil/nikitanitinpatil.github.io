@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Builiding a recommendation syaytem using python machine learning and AI](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
