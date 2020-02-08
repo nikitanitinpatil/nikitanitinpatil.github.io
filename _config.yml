@@ -1,10 +1,12 @@
 title: Nikita Patil # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  
   Data Analyst
-  Second description 
+  <br>
+   
   M.S. information Technology and Management.
+  <br>
   <a href="www.linkedin.com/in/nikita-nitin-patil">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
