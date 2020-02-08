@@ -4,7 +4,7 @@
 
 ### Project 1
 
-Builiding a recommendation syaytem using python machine learning and AI
+Builiding a popularity based recommendation system.
 <img src="project1.jpeg"/>
 
 
