@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Project 1
 
 Builiding a recommendation syaytem using python machine learning and AI
 <img src="project1.jpeg"/>
