@@ -6,7 +6,8 @@
 
 Builiding a popularity based recommendation system.
 <br>
-Project Link (https://github.com/nikitanitinpatil/recommendation-system.git)
+
+Project Link <a href="https://github.com/nikitanitinpatil/recommendation-system.git">
 
 <img src="project1.jpeg"/>
 
