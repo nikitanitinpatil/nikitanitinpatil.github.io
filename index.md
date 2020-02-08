@@ -5,14 +5,12 @@
 ### Project 1
 
 Builiding a popularity based recommendation system.
+<br>
+Project Link (https://github.com/nikitanitinpatil/recommendation-system.git)
+
 <img src="project1.jpeg"/>
 
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
 
 
 
