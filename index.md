@@ -15,7 +15,7 @@ Builiding a popularity based recommendation system.
 
 Created an interactive resume using Tableau.
 <br>
-<img src="project1.jpeg"/>
+<img src="Capturetableau.PNG"/>
 
 
 
