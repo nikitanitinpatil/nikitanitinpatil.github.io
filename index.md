@@ -10,6 +10,15 @@ Builiding a popularity based recommendation system.
 
 <img src="project1.jpeg"/>
 
+### Project 2
+
+Used titanic dataset that contained information about 891 people on board for predicting the survival rates of passengers on board.
+<br>
+<a href="https://github.com/nikitanitinpatil/titanic ML.git">View My Project Link</a> 
+
+<img src="t95xhuhuqgb01.png"/>
+
+
 
 ### Resume
 
