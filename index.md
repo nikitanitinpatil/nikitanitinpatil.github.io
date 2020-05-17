@@ -18,6 +18,14 @@ Used titanic dataset that contained information about 891 people on board for pr
 
 <img src="t95xhuhuqgb01.png"/>
 
+### Generating a resume in Python
+
+Created a resume using matplotlib library in Python.
+<br>
+<a href="resume.ipynb">View My Project Link</a> 
+
+<img src="pythonrsume.PNG"/>
+
 
 
 ### Resume
