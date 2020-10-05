@@ -8,7 +8,7 @@ Truck Transport Analysis
 <br>
 <a href="Big Data (2).pptx">View My Project Link</a> 
 
-<img src="download.jpeg"/>
+<img src="download.jpg"/>
 
 ### Project 2
 
